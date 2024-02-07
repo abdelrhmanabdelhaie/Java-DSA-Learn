@@ -1,0 +1,21 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôİ›J8íéÓĞ1
+]	java:S125"<This block of commented-out lines of code should be removed.(­÷×°ÿÿÿÿÿ8‰êÓĞ1
+{
+java:S3012m"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ø§ïøÿÿÿÿ8’êÓĞ1
+{
+java:S3012w"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ø§ïøÿÿÿÿ8”êÓĞ1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(›Æ­×8–êÓĞ1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(œ“òĞ8–êÓĞ1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(œÜ½Úüÿÿÿÿ8–êÓĞ1
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(É§Øøÿÿÿÿ8–êÓĞ1
+V	java:S106“"9Replace this use of System.out or System.err by a logger.(óá–8—êÓĞ1
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8—êÓĞ1
+V	java:S106§"9Replace this use of System.out or System.err by a logger.(ÛÜì8™êÓĞ1
+V	java:S106¨"9Replace this use of System.out or System.err by a logger.(ÛÜì8šêÓĞ1
+V	java:S106©"9Replace this use of System.out or System.err by a logger.(ÛÜì8šêÓĞ1
+V	java:S106ª"9Replace this use of System.out or System.err by a logger.(ÛÜì8šêÓĞ1
+V	java:S106«"9Replace this use of System.out or System.err by a logger.(ÛÜì8§€×Ğ1
+V	java:S106¬"9Replace this use of System.out or System.err by a logger.(ÛÜì8¨€×Ğ1
+W
+java:S1144‡"9Remove this unused private "shiftElementsToRight" method.(ö·Äè8œêÓĞ1

@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É™¦óþÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ä„å˜
+E
+java:S1197"*Move the array designators [] to the type.(¤¤ÂÃùÿÿÿÿ
+E
+java:S1197 "*Move the array designators [] to the type.(®·³ªùÿÿÿÿ
+t
+java:S3012""YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ê·–³úÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(“Öˆ°ÿÿÿÿÿ

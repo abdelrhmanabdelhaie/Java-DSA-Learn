@@ -1,0 +1,21 @@
+
+[	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(…ÆÇË
+[	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(…ÆÇË
+\	java:S112á"FDefine and throw a dedicated exception instead of using a generic one.(…ÆÇË
+d
+java:S1192?"NDefine a constant instead of duplicating this literal "List is empty" 3 times.(…ÆÇË
+b
+java:S1192("GDefine a constant instead of duplicating this literal "Index " 5 times.(ØÓÏğşÿÿÿÿ
+|
+java:S11923"fDefine a constant instead of duplicating this literal " is greater than the size of the list" 3 times.(ËĞ×õ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«„ˆú
+Y
+java:S2259"BA "NullPointerException" could be thrown; "prev" is nullable here.(„ÅŞŒ
+w
+java:S4144ß"aUpdate this method so that its implementation is not identical to "deleteAtBeginning" on line 61.(ÊÀÆ9
+N	java:S106¯"9Replace this use of System.out or System.err by a logger.(ªƒÛ*
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(€Ä€ôúÿÿÿÿ
+T	java:S106¶"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+W	java:S125Æ"<This block of commented-out lines of code should be removed.(–¼äÚÿÿÿÿÿ
+2
+java:S3626ø"Remove this redundant jump.(ûÁİ…
