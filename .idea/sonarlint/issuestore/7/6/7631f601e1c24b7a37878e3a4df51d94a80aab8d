@@ -1,21 +1,21 @@
 
-u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôİ›J8íéÓĞ1
-]	java:S125"<This block of commented-out lines of code should be removed.(­÷×°ÿÿÿÿÿ8‰êÓĞ1
-{
-java:S3012m"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ø§ïøÿÿÿÿ8’êÓĞ1
-{
-java:S3012w"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ø§ïøÿÿÿÿ8”êÓĞ1
-V	java:S106"9Replace this use of System.out or System.err by a logger.(›Æ­×8–êÓĞ1
-V	java:S106"9Replace this use of System.out or System.err by a logger.(œ“òĞ8–êÓĞ1
-[	java:S106"9Replace this use of System.out or System.err by a logger.(œÜ½Úüÿÿÿÿ8–êÓĞ1
-[	java:S106‘"9Replace this use of System.out or System.err by a logger.(É§Øøÿÿÿÿ8–êÓĞ1
-V	java:S106“"9Replace this use of System.out or System.err by a logger.(óá–8—êÓĞ1
-[	java:S106•"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8—êÓĞ1
-V	java:S106§"9Replace this use of System.out or System.err by a logger.(ÛÜì8™êÓĞ1
-V	java:S106¨"9Replace this use of System.out or System.err by a logger.(ÛÜì8šêÓĞ1
-V	java:S106©"9Replace this use of System.out or System.err by a logger.(ÛÜì8šêÓĞ1
-V	java:S106ª"9Replace this use of System.out or System.err by a logger.(ÛÜì8šêÓĞ1
-V	java:S106«"9Replace this use of System.out or System.err by a logger.(ÛÜì8§€×Ğ1
-V	java:S106¬"9Replace this use of System.out or System.err by a logger.(ÛÜì8¨€×Ğ1
-W
-java:S1144‡"9Remove this unused private "shiftElementsToRight" method.(ö·Äè8œêÓĞ1
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôİ›J8íéÓĞ1J$598932b6-4e38-4ef5-a23c-1bc3e25a42f4
+}
+java:S1144‡"9Remove this unused private "shiftElementsToRight" method.(ö·Äè8œêÓĞ1J$0eebf3bf-bf1d-49ce-af9f-6b566a1b2d87
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(­÷×°ÿÿÿÿÿ8‰êÓĞ1J$d67c7b84-4f7b-42b5-b4c0-4f0d4c0ba8f6
+¡
+java:S3012m"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ø§ïøÿÿÿÿ8’êÓĞ1J$107944ed-209a-49e7-810d-392e3c8984a2
+¡
+java:S3012w"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ø§ïøÿÿÿÿ8”êÓĞ1J$2e4d9d41-210c-45d7-b94d-4b726895acc4
+n	java:S106"+Replace this use of System.out by a logger.(›Æ­×8–êÓĞ1J$2272368c-5205-4877-8ee3-dde4de83d046
+n	java:S106"+Replace this use of System.out by a logger.(œ“òĞ8–êÓĞ1J$026c5060-1b17-44bf-9e71-3105a2d422b4
+s	java:S106"+Replace this use of System.out by a logger.(œÜ½Úüÿÿÿÿ8–êÓĞ1J$5402b7d2-1002-42d0-96e1-92dbca255d1a
+s	java:S106‘"+Replace this use of System.out by a logger.(É§Øøÿÿÿÿ8–êÓĞ1J$4c259ae4-b6ec-4fc4-811c-49977fcccedb
+n	java:S106“"+Replace this use of System.out by a logger.(óá–8—êÓĞ1J$174fdb70-6e16-4a12-a1fb-a9349789f3f3
+s	java:S106•"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8—êÓĞ1J$b6198e06-f7b4-406b-be11-876663182d1b
+n	java:S106§"+Replace this use of System.out by a logger.(ÛÜì8šêÓĞ1J$26a87946-e599-4446-9687-f34e473fecc9
+n	java:S106¨"+Replace this use of System.out by a logger.(ÛÜì8šêÓĞ1J$0c32082c-5c6b-48b8-a660-e7c5be9f568f
+n	java:S106©"+Replace this use of System.out by a logger.(ÛÜì8šêÓĞ1J$eb82aad3-432f-4f41-9a3d-0288a02ef22c
+n	java:S106ª"+Replace this use of System.out by a logger.(ÛÜì8§€×Ğ1J$efc1dfbd-48a5-4f56-a4e6-8313b299d5c5
+n	java:S106«"+Replace this use of System.out by a logger.(ÛÜì8¨€×Ğ1J$53b272b4-7d9d-4e88-bd1c-58741a676bee
+n	java:S106¬"+Replace this use of System.out by a logger.(ÛÜì8ƒ“ééê1J$b32126e9-e798-4751-9ff8-339ed216202c
